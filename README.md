@@ -1,4 +1,4 @@
-Rogue Management Group, LLC – Corporate Overview
+Rogue Management Group, LLC | Corporate Overview
 Advancing Ethical Autonomy, Local AI Governance, and Trusted Agent Operations
 
 Rogue Management Group (RMG) is an applied research and development firm specializing in permissioned AI systems, local autonomous agents, and auditable governance frameworks designed for safety-critical and high-integrity environments.
@@ -8,7 +8,7 @@ Over the past year, our team has operated in a low-visibility, high-focus mode, 
 Our work centers on the belief that autonomy requires accountability, and that AI systems should always remain transparent to—and directed by—the user.
 
 Core Technologies
-Builder’s Permit™ – Permissioned AI Access Framework
+Builder’s Permit: Governed AI Access Framework
 
 A structured, multi-tier access and verification model that enforces:
 
@@ -104,13 +104,13 @@ We welcome inquiries from organizations exploring responsible AI deployment, loc
 
 Connect With Us
 
-LinkedIn – Professional updates and collaboration opportunities
+LinkedIn: Professional updates and collaboration opportunities
 https://www.linkedin.com/in/stephenzeitvogel
 
-GitHub – Frameworks, documentation, and reference implementations
+GitHub: Frameworks, documentation, and reference implementations
 https://github.com/stephenjadendiesel
 
-Company Hub – Central repository for resources and contact
+Company Hub: Central repository for resources and contact
 https://linktr.ee/rmgalpha
 
 For formal engagement or partnership discussions, please use the channels above.
