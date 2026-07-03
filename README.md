@@ -10,27 +10,27 @@ Our work centers on the belief that autonomy requires accountability, and that A
 Core Technologies
 Builder’s Permit: Governed AI Access Framework
 
-A structured, multi-tier access and verification model that enforces:
+A structured, multi tier access and verification model that enforces:
 
 Explicit user authorization
 
-Multi-layer action validation
+Multi layer action validation
 
 Governance rules tailored to the environment and risk profiles
 
 Immutable audit trails and time-stamped decision logs
 
-The Builder’s Permit™ establishes the foundation for safe operational autonomy and serves as the compliance backbone for all RMG systems.
+The Builder’s Permit establishes the foundation for safe operational autonomy and serves as the compliance backbone for all RMG systems.
 
-RogueOS™ – Local Autonomous Agent Platform
+RogueOS Local Autonomous Agent Platform
 
-RogueOS™ provides a controlled runtime environment for autonomous agents operating on local hardware. The system emphasizes:
+RogueOS provides a controlled runtime environment for autonomous agents operating on local hardware. The system emphasizes:
 
-User-first control
+User first control
 
 Verifiable state transitions
 
-Event-hashing and audit integrity
+Event hashing and audit integrity
 
 Automatic rollback and safe-mode protocols
 
@@ -58,15 +58,15 @@ Current Focus Areas
 
 As we transition out of private R&D mode, RMG is advancing work in the following domains:
 
-Local-first autonomous systems
+Local first autonomous systems
 
 Trusted execution frameworks for agentic AI
 
 Synthetic data generation pipeline strategies
 
-Blue-collar and field-operations AI tooling
+Blue collar and field-operations AI tooling
 
-Security-aligned agent workflows
+Security aligned agent workflows
 
 Enterprise integration models for audit-driven AI deployment
 
