@@ -110,9 +110,6 @@ https://www.linkedin.com/in/stephenzeitvogel
 GitHub: Frameworks, documentation, and reference implementations
 https://github.com/stephenjadendiesel
 
-Company Hub: Central repository for resources and contact
-https://linktr.ee/rmgalpha
-
 For formal engagement or partnership discussions, please use the channels above.
 
 Statement of Direction:
