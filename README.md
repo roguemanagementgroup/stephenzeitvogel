@@ -1,11 +1,11 @@
 Rogue Management Group, LLC | Corporate Overview
 Advancing Ethical Autonomy, Local AI Governance, and Trusted Agent Operations
 
-Rogue Management Group (RMG) is an applied research and development firm specializing in permissioned AI systems, local autonomous agents, and auditable governance frameworks designed for safety-critical and high-integrity environments.
+Rogue Management Group (RMG) is an applied research and development firm specializing in permissioned AI systems, local autonomous agents, and auditable governance frameworks designed for safety critical and high integrity environments.
 
 Over the past year, our team has operated in a low-visibility, high-focus mode, developing the next generation of local AI infrastructure. During this period, we built and refined a suite of technologies that enable organizations and individuals to operate AI systems with clarity, control, and verifiable trust without dependency on external data pipelines or opaque remote infrastructures.
 
-Our work centers on the belief that autonomy requires accountability, and that AI systems should always remain transparent to—and directed by—the user.
+Our work centers on the belief that autonomy requires accountability, and that AI systems should always remain transparent to and directed by the user.
 
 Core Technologies
 Builder’s Permit: Governed AI Access Framework
@@ -18,7 +18,7 @@ Multi layer action validation
 
 Governance rules tailored to the environment and risk profiles
 
-Immutable audit trails and time-stamped decision logs
+Immutable audit trails and time stamped decision logs
 
 The Builder’s Permit establishes the foundation for safe operational autonomy and serves as the compliance backbone for all RMG systems.
 
@@ -100,7 +100,7 @@ Strategic integrations
 
 Advisory relationships
 
-We welcome inquiries from organizations exploring responsible AI deployment, local autonomous systems, or governance-first architectures.
+We welcome inquiries from organizations exploring responsible AI deployment, local autonomous systems, or governance first architectures.
 
 Connect With Us
 
@@ -108,7 +108,7 @@ LinkedIn: Professional updates and collaboration opportunities
 https://www.linkedin.com/in/stephenzeitvogel
 
 GitHub: Frameworks, documentation, and reference implementations
-https://github.com/stephenjadendiesel
+https://github.com/stephenzeitvogel
 
 For formal engagement or partnership discussions, please use the channels above.
 
@@ -120,7 +120,7 @@ Our objective is straightforward:
 
 In closing, Rogue Management Group was built for everyone and not just for engineers, early adopters, or industry insiders. We serve the people who have every reason to be skeptical of artificial intelligence: the workers, the parents, the creators, the individuals who never asked to participate in a technological revolution but deserve a place in it. Our systems are engineered with them in mind: simple to trust, easy to verify, and grounded in the belief that autonomy belongs to the user, not the machine.
 
-We stand firmly with those who have felt unseen, overlooked, or pushed aside by the speed and scale of the modern AI boom. Our work exists to ensure that progress does not outpace people—and that the benefits of these technologies reach those who were never invited into the conversation.
+We stand firmly with those who have felt unseen, overlooked, or pushed aside by the speed and scale of the modern AI boom. Our work exists to ensure that progress does not outpace people and that the benefits of these technologies reach those who were never invited into the conversation.
 
 And to those on the opposite side of this landscape who have chosen shortcuts, taken advantage of others, or contributed to the erosion of trust in this field—we offer a clear reminder: accountability always arrives. In our world, strength is measured by restraint, transparency, and the willingness to build systems that can roll back, correct course, and protect those who depend on them.
 
